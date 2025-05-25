@@ -48,6 +48,8 @@
 
 ---
 
+---
+
 ### 📊 GitHub Overview
 
 <p align="center">
@@ -55,6 +57,13 @@
   <img src="https://streak-stats.demolab.com?user=Baranwal-47&theme=radical&hide_border=true&border_radius=10" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=Baranwal-47&theme=radical&column=3&row=2&no-frame=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-47&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" />
+</p>
+
+<p align="center">
+  <!-- Followers badge -->
+  <a href="https://github.com/Baranwal-47?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Baranwal-47?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
 ---
