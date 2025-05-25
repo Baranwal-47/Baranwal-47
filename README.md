@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Baranwal-47&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="150" />
   <img src="https://streak-stats.demolab.com?user=Baranwal-47&theme=radical&hide_border=true&border_radius=10" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=Baranwal-47&theme=radical&column=3&row=2&no-frame=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-47&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-47&layout=compact&theme=radical&hide_border=true&langs_count=6&v=1" height="150" />
 </p>
 
 <p align="center">
