@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Enthusiast | Flutter Learner | Curious Coder from 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://github.com/Baranwal-47/Baranwal-47/blob/main/output.gif" width="600" alt="Animated Banner" />
+  <img src="https://github.com/Baranwal-47/Baranwal-47/blob/main/myself.gif" width="600" alt="Animated Banner" />
 </p>
 
 ---
