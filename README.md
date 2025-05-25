@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Baranwal</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 
-<img align="right" alt="Banner" width="400" src="https://github.com/Baranwal-47/Baranwal-47/blob/main/ghBanner.png">
+<img align="right" alt="Banner" width="400" src="https://drive.google.com/file/d/1gIKnpq25zxSKlCv63CWQn3zc9wAAYTUX/view?usp=sharing">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Baranwal-47&label=Profile%20views&color=0e75b6&style=flat" alt="Baranwal-47" />
