@@ -4,7 +4,7 @@
 <img align="right" alt="Banner" width="400" src="https://github.com/Baranwal-47/Baranwal-47/blob/main/ghBanner.png">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ricobyter&label=Profile%20views&color=0e75b6&style=flat" alt="ricobyter" />
+  <img src="https://komarev.com/ghpvc/?username=Baranwal-47&label=Profile%20views&color=0e75b6&style=flat" alt="Baranwal-47" />
 </p>
 
 - 🏫 I’m currently a **Pre-Final Year** student at [IIITDM JABALPUR](https://iiitdmj.ac.in/)
