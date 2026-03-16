@@ -2,9 +2,9 @@
 
 **Tech Enthusiast | Full Stack Developer | Security & Networks Nerd**
 
-🎓 Final year B.Tech Computer Science & Engineering student at IIIT Jabalpur
+🎓 Final year B.Tech Computer Science & Engineering student at IIITDM Jabalpur
 
-I'm passionate about full stack web development and have hands-on experience with React, Next.js, Node.js, Django, and the MERN stack. I'm proficient in C/C++, Python, and JavaScript. I enjoy building products that solve real problems — from healthcare management systems to AI-powered Ayurvedic query engines. Always excited to collaborate on projects that push boundaries.
+I'm passionate about full stack web development and have hands-on experience with React, Next.js, Node.js, Django, and the MERN stack. I'm proficient in C/C++, Python, and JavaScript. I enjoy building scalable and dynamic websites to expand my knowledge and excited to collaborate in real world projects in future.
 
 - 🔭 Currently building a multimodal RAG system for Ayurvedic medicine — combining text, images, and traditional knowledge bases to build an AI-powered query engine for Ayurvedic diagnosis and remedies
 - 🌱 Exploring: System Design, DevOps (Docker, CI/CD), and Advanced Networking
