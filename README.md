@@ -9,7 +9,7 @@ I'm passionate about full stack web development and have hands-on experience wit
 - 🔭 Currently building a multimodal RAG system for Ayurvedic medicine — combining text, images, and traditional knowledge bases to build an AI-powered query engine for Ayurvedic diagnosis and remedies
 - 🌱 Exploring: System Design, DevOps (Docker, CI/CD), and Advanced Networking
 - 🤝 Interested in: Full Stack Development, Security Tooling, and AI/ML Applications
-- 💬 Ask me about: React/Next.js, network protocols, zero-knowledge proofs, or penetration testing
+- 💬 Ask me about: React/Next.js, network protocols, zero-knowledge proofs, or different penetration testing tools
 
 ---
 
