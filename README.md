@@ -34,11 +34,11 @@ I'm passionate about full stack web development and have hands-on experience wit
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Baranwal-47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0)
+![](https://github-readme-stats.vercel.app/api?username=Baranwal-47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Baranwal-47&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baranwal-47&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 ## 📈 Contribution Graph
 
