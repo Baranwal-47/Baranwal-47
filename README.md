@@ -7,7 +7,7 @@ I'm proficient in C/C++, Python, and JavaScript. I enjoy building scalable and d
 
 <br/>
 
-- 🔭 Currently building a **multimodal RAG system** for Ayurvedic medicine — combining text, images, and traditional knowledge bases into an AI-powered query engine
+- 🔭 Always building something at the intersection of AI, Security, and the Web
 - 🌱 Exploring: **System Design, DevOps (Docker, CI/CD), and Advanced Networking**
 - 🤝 Interested in: Full Stack Development, Security Tooling, and AI/ML Applications
 - 💬 Ask me about: React/Next.js, network protocols, zero-knowledge proofs, or penetration testing tools
@@ -15,7 +15,7 @@ I'm proficient in C/C++, Python, and JavaScript. I enjoy building scalable and d
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <hr>
 
-⚡ <b>Fun Fact:</b> <i>I built a C++ engine that identifies whether you're watching YouTube even though HTTPS encrypts your traffic — the domain name leaks in the TLS handshake before encryption kicks in! When I'm not breaking or building things, you'll find me down a rabbit hole of system design papers or tinkering with network stacks.</i>
+⚡ <b>Fun Fact:</b> <i>I built a C++ engine that identifies whether you're watching YouTube even though HTTPS encrypts your traffic — the domain name leaks in the TLS handshake before encryption kicks in!</i>
 
 ## Languages And Frameworks
 
