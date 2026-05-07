@@ -5,7 +5,7 @@
 <br/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Welcome to my corner of GitHub
-### Full Stack Developer • Security & Networks Nerd • IIITDM Jabalpur
+### Full Stack, Systems, and Everything in between • IIITDM Jabalpur
 
 </div>
 
