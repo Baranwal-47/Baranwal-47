@@ -5,7 +5,7 @@
 <br/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Welcome to my corner of GitHub
-### Full Stack, Systems, and Everything in between • IIITDM Jabalpur
+### Turning ideas into products, systems, and experiments
 
 </div>
 
