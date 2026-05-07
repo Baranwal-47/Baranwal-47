@@ -102,7 +102,6 @@ I'm proficient in C/C++, Python, and JavaScript. I enjoy building scalable and d
 <br/>
 
 <img src="https://raw.githubusercontent.com/Baranwal-47/Baranwal-47/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-<img src="https://raw.githubusercontent.com/Baranwal-47/Baranwal-47/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 
 </div>
 
