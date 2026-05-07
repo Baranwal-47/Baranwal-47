@@ -1,16 +1,20 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hey there, I'm Utkarsh Baranwal AKA @Baranwal-47
+<div align="center">
 
-**Full Stack Developer | Security & Networks Nerd | IIITDM Jabalpur**
-A Final Year pursuing B.Tech in Computer Science and Engineering at IIITDM Jabalpur 🎓
-I'm passionate about full stack web development and have hands-on experience with frameworks like React, Next.js, Django, and the MERN stack.
-I'm proficient in C/C++, Python, and JavaScript. I enjoy building scalable and dynamic systems that push boundaries — and I'm excited to collaborate on real-world projects in the future.
+<img src="./github_banner_image.png" alt="Utkarsh Banner" width="100%" />
 
 <br/>
 
-- 🔭 Always building something at the intersection of AI, Security, and the Web
-- 🌱 Exploring: **System Design, DevOps (Docker, CI/CD), and Advanced Networking**
-- 🤝 Interested in: Full Stack Development, Security Tooling, and AI/ML Applications
-- 💬 Ask me about: React/Next.js, network protocols, zero-knowledge proofs, or penetration testing tools
+# Hey there 👋
+### Full Stack Developer • Security & Networks Nerd • IIITDM Jabalpur
+
+</div>
+
+<br/>
+
+- 🔭 Building at the intersection of **AI, Security, and the Web**
+- 🌱 Exploring **System Design, DevOps, CI/CD, and Advanced Networking**
+- 🤝 Open to collaborating on **Full Stack, Security Tooling, and AI/ML projects**
+- 💬 Ask me about **React/Next.js, networking, penetration testing, or scalable backend systems**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <hr>
