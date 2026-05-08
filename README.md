@@ -86,12 +86,12 @@
 
 <!-- Stats + Streak -->
 <img src="https://github-readme-stats.vercel.app/api?username=Baranwal-47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" height="165" />
-<img src="https://streak-stats.demolab.com?user=Baranwal-47&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="165" />
+<img src="https://streak-stats.demolab.com?user=Baranwal-47&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=1800" height="165" />
 
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baranwal-47&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8&size_weight=0.5&count_weight=0.5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baranwal-47&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8&size_weight=0.5&count_weight=0.5&cache_seconds=1800" />
 
 <br/>
 
