@@ -14,7 +14,7 @@
 - 🔭 Building at the intersection of **AI, Security, and the Web**
 - 🌱 Exploring **System Design, DevOps, CI/CD, and Advanced Networking**
 - 🤝 Open to collaborating on **Full Stack, Security Tooling, and AI/ML projects**
-- 💬 Ask me about **React/Next.js, networking, penetration testing, or scalable backend systems**
+- 💬 Ask me about **React/Next.js, networking, zero knowledge proofs, or scalable backend systems**
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <hr>
